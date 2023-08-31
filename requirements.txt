@@ -1,6 +1,6 @@
-anyio==3.7.0 ; python_full_version > "3.8.0" and python_version < "4.0" \
-    --hash=sha256:275d9973793619a5374e1c89a4f4ad3f4b0a5510a2b5b939444bee8f4c4d37ce \
-    --hash=sha256:eddca883c4175f14df8aedce21054bfca3adb70ffe76a9f607aef9d7fa2ea7f0
+anyio==4.0.0; python_full_version > "3.8.0" and python_version < "4.0" \
+    --hash=sha256:cfdb2b588b9fc25ede96d8db56ed50848b0b649dca3dd1df0b11f683bb9e0b5f \
+    --hash=sha256:f7ed51751b2c2add651e5747c891b47e26d2a21be5d32d9311dfe9692f3e5d7a
 certifi==2023.5.7 ; python_full_version > "3.8.0" and python_version < "4.0" \
     --hash=sha256:0f0d56dc5a6ad56fd4ba36484d6cc34451e1c6548c61daad8c320169f91eddc7 \
     --hash=sha256:c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716
